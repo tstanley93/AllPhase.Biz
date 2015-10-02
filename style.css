@@ -1,0 +1,36 @@
+﻿#Header  
+{
+    background: #FFFFFF;
+    background: url("http://www.websitehomework.com/Images/") repeat-x;
+    color: #000000;
+     }
+#TemplateSidebar  
+{
+    background:#EFEFEF;
+    height: 245px; 
+    }
+#Footer  
+{
+    background: #FFFFFF;
+    }
+.sidebar_item  
+{
+    color:Gray; 
+    }
+#Header p  
+{
+    color: #000000; 
+    }
+#BodyBg  
+{
+    background: url('Images/BackgroundPattern1.png'); 
+    }
+#TemplateSidebar h1  
+{
+    color: #0F3443; 
+    }
+body  
+{
+    padding-top: 24px; 
+    background:url("http://www.websitehomework.com/Images/BackgroundPattern1.png"); 
+    }
